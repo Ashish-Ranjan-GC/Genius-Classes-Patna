@@ -6,7 +6,7 @@ let studentData = {
       name: "Aditi Tiwari",
       class: "10th",
       testResults: [
-        { id: "01/1", subject: "Math", date: "27/04/2025", marksObtained: "14/30" },
+        { id: "01/1", subject: "Math", date: "27/04/2025", marksObtained: "30/30" },
         { id: "01/2", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/3", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/4", subject: "---", date: "---", marksObtained: "---" },
