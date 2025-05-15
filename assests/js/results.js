@@ -7,7 +7,7 @@ let studentData = {
       class: "10th",
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "14/30" },
-        { id: "01/02", subject: "Science", date: "10/05/2025", marksObtained: "0/45" },
+        { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "0/45" },
         { id: "01/3", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/4", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
@@ -35,7 +35,7 @@ let studentData = {
       class: "10th",
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "17/30" },
-        { id: "01/02", subject: "Science", date: "10/05/2025", marksObtained: "0/45" },
+        { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "0/45" },
         { id: "01/3", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/4", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
@@ -63,7 +63,7 @@ let studentData = {
       class: "10th",
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "Absent" },
-        { id: "01/02", subject: "Science", date: "10/05/2025", marksObtained: "0/45" },
+        { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "0/45" },
         { id: "01/3", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/4", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
