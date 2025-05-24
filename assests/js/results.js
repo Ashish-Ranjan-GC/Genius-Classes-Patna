@@ -1920,8 +1920,8 @@ let studentData = {
       name: "Yuvraj Kumar",
       class: "7th",
       testResults: [
-        { id: "02/1", subject: "Math", date: "27/04/2025", marksObtained: "---" },
-        { id: "02/2", subject: "Social Science", date: "11/05/2025", marksObtained: "00/30" },
+        { id: "02/1", subject: "Math", date: "27/04/2025", marksObtained: "Absent" },
+        { id: "02/2", subject: "Social Science", date: "11/05/2025", marksObtained: "Absent" },
         { id: "02/3", subject: "---", date: "---", marksObtained: "---" },
         { id: "02/4", subject: "---", date: "---", marksObtained: "---" },
         { id: "02/5", subject: "---", date: "---", marksObtained: "---" },
@@ -1948,8 +1948,8 @@ let studentData = {
       name: "Aarav Kumar",
       class: "7th",
       testResults: [
-        { id: "02/1", subject: "Math", date: "27/04/2025", marksObtained: "---" },
-        { id: "02/2", subject: "Social Science", date: "11/05/2025", marksObtained: "00/30" },
+        { id: "02/1", subject: "Math", date: "27/04/2025", marksObtained: "Absent" },
+        { id: "02/2", subject: "Social Science", date: "11/05/2025", marksObtained: "Absent" },
         { id: "02/3", subject: "---", date: "---", marksObtained: "---" },
         { id: "02/4", subject: "---", date: "---", marksObtained: "---" },
         { id: "02/5", subject: "---", date: "---", marksObtained: "---" },
@@ -1971,13 +1971,13 @@ let studentData = {
       ],
     },
   ],
-  110: [
+  "18/25": [
     {
-      name: "Vaibhav Raj",
+      name: "Samarth Raj",
       class: "7th",
       testResults: [
-        { id: "02/1", subject: "Math", date: "27/04/2025", marksObtained: "---" },
-        { id: "02/2", subject: "Social Science", date: "11/05/2025", marksObtained: "00/30" },
+        { id: "02/1", subject: "Math", date: "27/04/2025", marksObtained: "33/35" },
+        { id: "02/2", subject: "Social Science", date: "11/05/2025", marksObtained: "30/30" },
         { id: "02/3", subject: "---", date: "---", marksObtained: "---" },
         { id: "02/4", subject: "---", date: "---", marksObtained: "---" },
         { id: "02/5", subject: "---", date: "---", marksObtained: "---" },
@@ -2485,8 +2485,8 @@ let studentData = {
       name: "Ayush Kumar",
       class: "7th",
       testResults: [
-        { id: "02/1", subject: "Math", date: "27/04/2025", marksObtained: "---" },
-        { id: "02/2", subject: "Social Science", date: "11/05/2025", marksObtained: "00/30" },
+        { id: "02/1", subject: "Math", date: "27/04/2025", marksObtained: "Absent" },
+        { id: "02/2", subject: "Social Science", date: "11/05/2025", marksObtained: "Absent" },
         { id: "02/3", subject: "---", date: "---", marksObtained: "---" },
         { id: "02/4", subject: "---", date: "---", marksObtained: "---" },
         { id: "02/5", subject: "---", date: "---", marksObtained: "---" },
@@ -2541,8 +2541,8 @@ let studentData = {
       name: "Rustam Kumar",
       class: "7th",
       testResults: [
-        { id: "02/1", subject: "Math", date: "27/04/2025", marksObtained: "---" },
-        { id: "02/2", subject: "Social Science", date: "11/05/2025", marksObtained: "00/30" },
+        { id: "02/1", subject: "Math", date: "27/04/2025", marksObtained: "Absent" },
+        { id: "02/2", subject: "Social Science", date: "11/05/2025", marksObtained: "Absent" },
         { id: "02/3", subject: "---", date: "---", marksObtained: "---" },
         { id: "02/4", subject: "---", date: "---", marksObtained: "---" },
         { id: "02/5", subject: "---", date: "---", marksObtained: "---" },
