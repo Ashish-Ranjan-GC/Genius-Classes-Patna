@@ -1575,7 +1575,7 @@ let studentData = {
   ],
   // Class 8th CBSE
 
-  28: [
+  028: [
     {
       name: "Aaysha Kumari",
       class: "8th",
