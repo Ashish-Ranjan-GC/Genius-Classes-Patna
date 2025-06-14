@@ -4770,4 +4770,116 @@ let studentData = {
       ]
     }
   ],
+  "1028/24": [
+    {
+      name: "Samodh Kumar",
+      class: "12th",
+      testResults: [
+        { subject: "Math", date: "25/08/2024", marksObtained: "..." },
+        { subject: "Chemistry", date: "08/09/2024", marksObtained: "..." },
+        { subject: "Chemistry", date: "15/09/2024", marksObtained: "..." },
+        { subject: "Physics", date: "29/09/2024", marksObtained: "..." },
+        { subject: "Chemistry", date: "01/12/2024", marksObtained: "..." },
+        { subject: "Physics", date: "12/01/2025", marksObtained: "..." },
+        { subject: "Chemistry", date: "09/02/2025", marksObtained: "---" },
+        { subject: "Physics", date: "04/05/2025", marksObtained: "Absent" },
+        { subject: "Chemistry", date: "24/05/2025", marksObtained: "11/40" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" }
+      ]
+    }
+  ],
+   "1035/25": [
+    {
+      name: "Gulshan Kumar Singh",
+      class: "12th",
+      testResults: [
+        { subject: "Math", date: "25/08/2024", marksObtained: "..." },
+        { subject: "Chemistry", date: "08/09/2024", marksObtained: "..." },
+        { subject: "Chemistry", date: "15/09/2024", marksObtained: "..." },
+        { subject: "Physics", date: "29/09/2024", marksObtained: "..." },
+        { subject: "Chemistry", date: "01/12/2024", marksObtained: "..." },
+        { subject: "Physics", date: "12/01/2025", marksObtained: "..." },
+        { subject: "Chemistry", date: "09/02/2025", marksObtained: "---" },
+        { subject: "Physics", date: "04/05/2025", marksObtained: "Absent" },
+        { subject: "Chemistry", date: "24/05/2025", marksObtained: "19.5/40" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" }
+      ]
+    }
+  ],
+   "1034/25": [
+    {
+      name: "Rishi Kumar Singh",
+      class: "12th",
+      testResults: [
+        { subject: "Math", date: "25/08/2024", marksObtained: "..." },
+        { subject: "Chemistry", date: "08/09/2024", marksObtained: "..." },
+        { subject: "Chemistry", date: "15/09/2024", marksObtained: "..." },
+        { subject: "Physics", date: "29/09/2024", marksObtained: "..." },
+        { subject: "Chemistry", date: "01/12/2024", marksObtained: "..." },
+        { subject: "Physics", date: "12/01/2025", marksObtained: "..." },
+        { subject: "Chemistry", date: "09/02/2025", marksObtained: "---" },
+        { subject: "Physics", date: "04/05/2025", marksObtained: "Absent" },
+        { subject: "Chemistry", date: "24/05/2025", marksObtained: "23.5/40" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" }
+      ]
+    }
+  ],
+   "1036/25": [
+    {
+      name: "Aman Singh",
+      class: "12th",
+      testResults: [
+        { subject: "Math", date: "25/08/2024", marksObtained: "..." },
+        { subject: "Chemistry", date: "08/09/2024", marksObtained: "..." },
+        { subject: "Chemistry", date: "15/09/2024", marksObtained: "..." },
+        { subject: "Physics", date: "29/09/2024", marksObtained: "..." },
+        { subject: "Chemistry", date: "01/12/2024", marksObtained: "..." },
+        { subject: "Physics", date: "12/01/2025", marksObtained: "..." },
+        { subject: "Chemistry", date: "09/02/2025", marksObtained: "---" },
+        { subject: "Physics", date: "04/05/2025", marksObtained: "Absent" },
+        { subject: "Chemistry", date: "24/05/2025", marksObtained: "14.5/40" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "---", date: "---", marksObtained: "---" }
+      ]
+    }
+  ],
 };
