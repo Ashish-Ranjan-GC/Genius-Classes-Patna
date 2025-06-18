@@ -1573,9 +1573,9 @@ let studentData = {
       ],
     },
   ],
+  
   // Class 8th CBSE
-
-  028: [
+ "028": [
     {
       name: "Aaysha Kumari",
       class: "8th",
@@ -1603,7 +1603,7 @@ let studentData = {
       ],
     },
   ],
-  30: [
+  "30": [
     {
       name: "Sanvi Verma",
       class: "8th",
@@ -2028,7 +2028,7 @@ let studentData = {
       ],
     },
   ],
-  201: [
+  "0201": [
     {
       name: "Rudra Kumar",
       class: "7th",
@@ -2061,7 +2061,7 @@ let studentData = {
       name: "Raj Kumari",
       class: "7th",
       testResults: [
-        { id: "02/1", subject: "Math", date: "27/04/2025", marksObtained: "22/30" },
+        { id: "02/1", subject: "Math", date: "27/04/2025", marksObtained: "22/35" },
         { id: "02/2", subject: "Social Science", date: "11/05/2025", marksObtained: "29.5/30" },
         { id: "02/3", subject: "Science", date: "31/05/2025", marksObtained: "28/35" },
         { id: "02/4", subject: "---", date: "---", marksObtained: "---" },
