@@ -796,7 +796,7 @@ let studentData = {
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "29.5/30" },
         { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "31.5/35" },
-        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "---" },
+        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "26/30" },
         { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "29/30" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/6", subject: "---", date: "---", marksObtained: "---" },
@@ -824,7 +824,7 @@ let studentData = {
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "Absent" },
         { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "17/35" },
-        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "---" },
+        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "Absent" },
         { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "13/30" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/6", subject: "---", date: "---", marksObtained: "---" },
@@ -852,7 +852,7 @@ let studentData = {
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "29/30" },
         { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "32.5/35" },
-        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "---" },
+        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "28/30" },
         { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "29/30" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/6", subject: "---", date: "---", marksObtained: "---" },
@@ -880,7 +880,7 @@ let studentData = {
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "Absent" },
         { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "Absent" },
-        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "---" },
+        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "15/30" },
         { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "Absent" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/6", subject: "---", date: "---", marksObtained: "---" },
@@ -908,7 +908,7 @@ let studentData = {
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "8.5/30" },
         { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "17/35" },
-        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "---" },
+        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "16.5/30" },
         { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "21.5/30" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/6", subject: "---", date: "---", marksObtained: "---" },
@@ -936,7 +936,7 @@ let studentData = {
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "Absent" },
         { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "Absent" },
-        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "---" },
+        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "Absent" },
         { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "Absent" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/6", subject: "---", date: "---", marksObtained: "---" },
@@ -964,7 +964,7 @@ let studentData = {
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "26/30" },
         { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "25.5/35" },
-        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "---" },
+        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "26.5/30" },
         { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "Absent" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/6", subject: "---", date: "---", marksObtained: "---" },
@@ -992,7 +992,7 @@ let studentData = {
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "Absent" },
         { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "17.5/35" },
-        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "---" },
+        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "13/30" },
         { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "Absent" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/6", subject: "---", date: "---", marksObtained: "---" },
@@ -1020,7 +1020,7 @@ let studentData = {
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "Absent" },
         { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "Absent" },
-        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "---" },
+        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "Absent" },
         { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "Absent" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/6", subject: "---", date: "---", marksObtained: "---" },
@@ -1048,7 +1048,7 @@ let studentData = {
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "---" },
         { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "18.5/35" },
-        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "---" },
+        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "15.5/30" },
         { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "09/30" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/6", subject: "---", date: "---", marksObtained: "---" },
@@ -1076,7 +1076,7 @@ let studentData = {
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "Absent" },
         { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "15/35" },
-        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "---" },
+        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "19.5/30" },
         { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "29/30" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/6", subject: "---", date: "---", marksObtained: "---" },
@@ -1104,7 +1104,7 @@ let studentData = {
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "Absent" },
         { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "13/35" },
-        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "---" },
+        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "11/30" },
         { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "10/30" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/6", subject: "---", date: "---", marksObtained: "---" },
@@ -1132,7 +1132,7 @@ let studentData = {
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "Absent" },
         { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "17.5/35" },
-        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "---" },
+        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "Absent" },
         { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "25/30" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/6", subject: "---", date: "---", marksObtained: "---" },
@@ -1188,7 +1188,7 @@ let studentData = {
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "Absent" },
         { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "16.5/35" },
-        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "---" },
+        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "19/30" },
         { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "Absent" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/6", subject: "---", date: "---", marksObtained: "---" },
@@ -1216,7 +1216,7 @@ let studentData = {
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "---" },
         { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "28.5/35" },
-        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "---" },
+        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "16/30" },
         { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "10/30" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/6", subject: "---", date: "---", marksObtained: "---" },
@@ -1244,7 +1244,7 @@ let studentData = {
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "---" },
         { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "Absent" },
-        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "---" },
+        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "19.5/30" },
         { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "21.5/30" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/6", subject: "---", date: "---", marksObtained: "---" },
@@ -1272,7 +1272,7 @@ let studentData = {
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "---" },
         { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "Absent" },
-        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "---" },
+        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "25/30" },
         { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "24/30" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/6", subject: "---", date: "---", marksObtained: "---" },
@@ -1300,7 +1300,7 @@ let studentData = {
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "---" },
         { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "---" },
-        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "---" },
+        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "Absent" },
         { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "21.5/30" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/6", subject: "---", date: "---", marksObtained: "---" },
@@ -1328,7 +1328,7 @@ let studentData = {
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "---" },
         { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "14.5/35" },
-        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "---" },
+        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "Absent" },
         { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "21/30" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/6", subject: "---", date: "---", marksObtained: "---" },
@@ -1356,7 +1356,7 @@ let studentData = {
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "28.5/30" },
         { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "Absent" },
-        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "---" },
+        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "16.5/30" },
         { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "Absent" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/6", subject: "---", date: "---", marksObtained: "---" },
@@ -1384,7 +1384,7 @@ let studentData = {
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "---" },
         { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "25/35" },
-        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "---" },
+        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "20.5/30" },
         { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "18/30" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/6", subject: "---", date: "---", marksObtained: "---" },
@@ -1412,7 +1412,7 @@ let studentData = {
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "6.5/30" },
         { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "Absent" },
-        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "---" },
+        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "Absent" },
         { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "4.5/30" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/6", subject: "---", date: "---", marksObtained: "---" },
@@ -1440,7 +1440,7 @@ let studentData = {
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "29.5/30" },
         { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "Absent" },
-        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "---" },
+        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "Absent" },
         { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "Absent" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/6", subject: "---", date: "---", marksObtained: "---" },
@@ -1468,7 +1468,7 @@ let studentData = {
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "12/30" },
         { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "22.5/35" },
-        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "---" },
+        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "20/30" },
         { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "17/30" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/6", subject: "---", date: "---", marksObtained: "---" },
@@ -1496,7 +1496,7 @@ let studentData = {
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "29/30" },
         { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "25.5/35" },
-        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "---" },
+        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "21/30" },
         { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "26.5/30" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/6", subject: "---", date: "---", marksObtained: "---" },
@@ -1524,7 +1524,7 @@ let studentData = {
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "Absent" },
         { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "Absent" },
-        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "---" },
+        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "23.5/30" },
         { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "22.5/30" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/6", subject: "---", date: "---", marksObtained: "---" },
@@ -1552,7 +1552,7 @@ let studentData = {
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "---" },
         { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "---" },
-        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "---" },
+        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "Absent" },
         { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "10.5/30" },
         { id: "01/5", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/6", subject: "---", date: "---", marksObtained: "---" },
