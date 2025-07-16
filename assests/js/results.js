@@ -3764,7 +3764,7 @@ let studentData = {
       class: "11th",
       testResults: [
         { subject: "Biology", date: "29/06/2025", marksObtained: "---" },
-        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "Math", date: "06/07/2025", marksObtained: "06/30" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" },
@@ -3819,7 +3819,7 @@ let studentData = {
       name: "Ashlok Srivastav",
       class: "11th",
       testResults: [
-        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "Math", date: "06/07/2025", marksObtained: "24/30" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" },
@@ -3847,7 +3847,7 @@ let studentData = {
       name: "Shubham Mishra",
       class: "11th",
       testResults: [
-        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "Math", date: "06/07/2025", marksObtained: "29/30" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" },
@@ -3876,7 +3876,7 @@ let studentData = {
       class: "11th",
       testResults: [
         { subject: "Biology", date: "29/06/2025", marksObtained: "20.5/50" },
-        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "Math", date: "06/07/2025", marksObtained: "23.5/30" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" },
@@ -4043,7 +4043,7 @@ let studentData = {
       name: "Satyam Gond",
       class: "11th",
       testResults: [
-        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "Math", date: "06/07/2025", marksObtained: "28/30" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" },
