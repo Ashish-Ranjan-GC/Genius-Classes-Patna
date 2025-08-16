@@ -787,17 +787,17 @@ let studentData = {
       ],
     },
   ],
-   "44/25": [
+   "62/24": [
     {
       name: "Nitish kumar",
       class: "10th",
       testResults: [
         { id: "01/01", subject: "Math", date: "27/04/2025", marksObtained: "..." },
-        { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "Absent" },
-        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "10/30" },
-        { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "06/30" },
+        { id: "01/02", subject: "Science", date: "11/05/2025", marksObtained: "---" },
+        { id: "01/3", subject: "Social Science", date: "31/05/2025", marksObtained: "---" },
+        { id: "01/4", subject: "Math", date: "22/06/2025", marksObtained: "---" },
         { id: "01/5", subject: "Science", date: "13/07/2025", marksObtained: "---" },
-        { id: "01/6", subject: "Social Science", date: "27/07/2025", marksObtained: "15/30" },
+        { id: "01/6", subject: "Social Science", date: "27/07/2025", marksObtained: "10.5/30" },
         { id: "01/7", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/8", subject: "---", date: "---", marksObtained: "---" },
         { id: "01/9", subject: "---", date: "---", marksObtained: "---" },
