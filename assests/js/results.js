@@ -4342,7 +4342,7 @@ let studentData = {
         { subject: "Math", date: "22/06/2025", marksObtained: "10/25" },
         { subject: "Physics", date: "29/06/2025", marksObtained: "Absent" },
         { subject: "Math", date: "27/07/2025", marksObtained: "26/30" },
-        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "Physics", date: "17/08/2025", marksObtained: "Absent" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" }
       ]
@@ -4370,7 +4370,7 @@ let studentData = {
         { subject: "Math", date: "22/06/2025", marksObtained: "24/25" },
         { subject: "Physics", date: "29/06/2025", marksObtained: "26.5/44" },
         { subject: "Math", date: "27/07/2025", marksObtained: "27/30" },
-        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "Physics", date: "17/08/2025", marksObtained: "30/46" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" }
       ]
@@ -4398,7 +4398,7 @@ let studentData = {
         { subject: "Math", date: "22/06/2025", marksObtained: "12.5/25" },
         { subject: "Physics", date: "29/06/2025", marksObtained: "16/44" },
         { subject: "Math", date: "27/07/2025", marksObtained: "26.5/30" },
-        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "Physics", date: "17/08/2025", marksObtained: "09/46" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" }
       ]
@@ -4454,7 +4454,7 @@ let studentData = {
         { subject: "Math", date: "22/06/2025", marksObtained: "Absent" },
         { subject: "Physics", date: "29/06/2025", marksObtained: "Absent" },
         { subject: "Math", date: "27/07/2025", marksObtained: "Absent" },
-        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "Physics", date: "17/08/2025", marksObtained: "Absent" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" }
       ]
@@ -4483,7 +4483,7 @@ let studentData = {
         { subject: "Math", date: "22/06/2025", marksObtained: "4.5/25" },
         { subject: "Physics", date: "29/06/2025", marksObtained: "13/44" },
         { subject: "Math", date: "27/07/2025", marksObtained: "Absent" },
-        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "Physics", date: "17/08/2025", marksObtained: "Absent" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" }
       ]
@@ -4511,7 +4511,7 @@ let studentData = {
         { subject: "Math", date: "22/06/2025", marksObtained: "13/25" },
         { subject: "Physics", date: "29/06/2025", marksObtained: "Absent" },
         { subject: "Math", date: "27/07/2025", marksObtained: "28/30" },
-        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "Physics", date: "17/08/2025", marksObtained: "14/46" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" }
       ]
@@ -4539,7 +4539,7 @@ let studentData = {
         { subject: "Math", date: "22/06/2025", marksObtained: "14.5/25" },
         { subject: "Physics", date: "29/06/2025", marksObtained: "Absent" },
         { subject: "Math", date: "27/07/2025", marksObtained: "29.5/30" },
-        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "Physics", date: "17/08/2025", marksObtained: "35/46" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" }
       ]
@@ -4567,7 +4567,7 @@ let studentData = {
         { subject: "Math", date: "22/06/2025", marksObtained: "10/25" },
         { subject: "Physics", date: "29/06/2025", marksObtained: "Absent" },
         { subject: "Math", date: "27/07/2025", marksObtained: "25/30" },
-        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "Physics", date: "17/08/2025", marksObtained: "10/46" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" }
       ]
@@ -4651,7 +4651,7 @@ let studentData = {
         { subject: "Math", date: "22/06/2025", marksObtained: "17/25" },
         { subject: "Physics", date: "29/06/2025", marksObtained: "17/44" },
         { subject: "Math", date: "27/07/2025", marksObtained: "Absent" },
-        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "Physics", date: "17/08/2025", marksObtained: "Absent" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" }
       ]
@@ -4735,7 +4735,7 @@ let studentData = {
         { subject: "Math", date: "22/06/2025", marksObtained: "17/25" },
         { subject: "Physics", date: "29/06/2025", marksObtained: "16/44" },
         { subject: "Math", date: "27/07/2025", marksObtained: "26.5/30" },
-        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "Physics", date: "17/08/2025", marksObtained: "Absent" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" }
       ]
@@ -4790,7 +4790,7 @@ let studentData = {
         { subject: "Math", date: "22/06/2025", marksObtained: "Absent" },
         { subject: "Physics", date: "29/06/2025", marksObtained: "11/44" },
         { subject: "Math", date: "27/07/2025", marksObtained: "25/30" },
-        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "Physics", date: "17/08/2025", marksObtained: "14/46" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" }
@@ -4812,7 +4812,7 @@ let studentData = {
         { subject: "Physics", date: "04/05/2025", marksObtained: "16/51" },
         { subject: "Chemistry", date: "24/05/2025", marksObtained: "Absent" },
         { subject: "Physics", date: "29/06/2025", marksObtained: "13/44" },
-        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "Physics", date: "17/08/2025", marksObtained: "08/46" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" },
@@ -4840,7 +4840,7 @@ let studentData = {
         { subject: "Physics", date: "04/05/2025", marksObtained: "Absent" },
         { subject: "Chemistry", date: "24/05/2025", marksObtained: "---" },
         { subject: "Physics", date: "29/06/2025", marksObtained: "Absent" },
-        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "Physics", date: "17/08/2025", marksObtained: "Absent" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" },
@@ -4896,7 +4896,7 @@ let studentData = {
         { subject: "Physics", date: "04/05/2025", marksObtained: "32/51" },
         { subject: "Chemistry", date: "24/05/2025", marksObtained: "23/40" },
         { subject: "Physics", date: "29/06/2025", marksObtained: "19.5/44" },
-        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "Physics", date: "17/08/2025", marksObtained: "Absent" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" },
@@ -4927,7 +4927,7 @@ let studentData = {
         { subject: "Math", date: "22/06/2025", marksObtained: "14/25" },
         { subject: "Physics", date: "29/06/2025", marksObtained: "10/44" },
         { subject: "Math", date: "27/07/2025", marksObtained: "28.5/30" },
-        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "Physics", date: "17/08/2025", marksObtained: "05/46" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" },
@@ -5010,7 +5010,7 @@ let studentData = {
         { subject: "Math", date: "22/06/2025", marksObtained: "Absent" },
         { subject: "Physics", date: "29/06/2025", marksObtained: "Absent" },
         { subject: "Math", date: "27/07/2025", marksObtained: "20/30" },
-        { subject: "---", date: "---", marksObtained: "---" },
+        { subject: "Physics", date: "17/08/2025", marksObtained: "Absent" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" },
