@@ -6498,7 +6498,7 @@ let studentData = {
           id: "02/1",
           subject: "Math",
           date: "27/04/2025",
-          marksObtained: "Absent",
+          marksObtained: "35/35",
         },
         {
           id: "02/2",
@@ -6522,7 +6522,7 @@ let studentData = {
           id: "02/5",
           subject: "Social Science",
           date: "13/07/2025",
-          marksObtained: "23/30",
+          marksObtained: "24/30",
         },
         {
           id: "02/6",
