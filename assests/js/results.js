@@ -3167,7 +3167,7 @@ let studentData = {
       ],
     },
   ],
-  "93/25: [
+  "93/25": [
     {
       name: "Maharshi",
       class: "9th",
