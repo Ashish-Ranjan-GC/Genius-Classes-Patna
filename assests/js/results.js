@@ -11908,7 +11908,7 @@ let studentData = {
   ],
   "89/25": [
     {
-      name: "Dilkhush Kumari",
+      name: "Dilkhush Kumar",
       class: "9th",
       testResults: [
         {
