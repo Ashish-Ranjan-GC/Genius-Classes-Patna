@@ -285,7 +285,7 @@ let studentData = {
       name: "Yash Raj",
       class: "10th",
       testResults: [
-        { subject: "Math", date: "19-04-2026", marksObtained: "Absent" },
+        { subject: "Math", date: "19-04-2026", marksObtained: "00/20" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" },
         { subject: "---", date: "---", marksObtained: "---" },
