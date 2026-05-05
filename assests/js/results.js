@@ -1213,7 +1213,7 @@ let studentData = {
     {
       name: "Yuvraj Kumar",
       class: "8th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "Math", date: "19/04/2026", marksObtained: "Absent" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -1241,7 +1241,7 @@ let studentData = {
     {
       name: "Aarav Kumar",
       class: "8th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "Math", date: "19/04/2026", marksObtained: "12/20" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -1269,7 +1269,7 @@ let studentData = {
     {
       name: "Samarth Raj",
       class: "8th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "Math", date: "19/04/2026", marksObtained: "20/20" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -1297,7 +1297,7 @@ let studentData = {
     {
       name: "Siddharth",
       class: "8th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -1325,7 +1325,7 @@ let studentData = {
     {
       name: "Rudra Kumar",
       class: "8th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "Math", date: "19/04/2026", marksObtained: "09/20" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -1353,7 +1353,7 @@ let studentData = {
     {
       name: "Raj Kumari",
       class: "8th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "Math", date: "19/04/2026", marksObtained: "Absent" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -1381,7 +1381,7 @@ let studentData = {
     {
       name: "Vaibhav Raj",
       class: "8th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "Math", date: "19/04/2026", marksObtained: "09/20" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -1409,7 +1409,7 @@ let studentData = {
     {
       name: "Lakshya Srinkhala",
       class: "8th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -1437,7 +1437,7 @@ let studentData = {
     {
       name: "Armaan",
       class: "8th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "Math", date: "19/04/2026", marksObtained: "06/20" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -1465,7 +1465,7 @@ let studentData = {
     {
       name: "Saket Raj",
       class: "8th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "Math", date: "19/04/2026", marksObtained: "15/20" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -1493,7 +1493,7 @@ let studentData = {
     {
       name: "Divyakant Jigyasu",
       class: "8th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "Math", date: "19/04/2026", marksObtained: "10/20" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -1521,7 +1521,7 @@ let studentData = {
     {
       name: "Shivam Kumar",
       class: "8th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "Math", date: "19/04/2026", marksObtained: "Absent" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -1549,7 +1549,7 @@ let studentData = {
     {
       name: "Harsh Raj",
       class: "8th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -1577,7 +1577,7 @@ let studentData = {
     {
       name: "Aditya Ranjan",
       class: "8th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "Math", date: "19/04/2026", marksObtained: "Absent" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -1605,7 +1605,7 @@ let studentData = {
     {
       name: "Samar Kumar",
       class: "8th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "Math", date: "19/04/2026", marksObtained: "05/20" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -1633,7 +1633,7 @@ let studentData = {
     {
       name: "Pavani Vinod",
       class: "8th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "Math", date: "19/04/2026", marksObtained: "02/20" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -1661,7 +1661,7 @@ let studentData = {
     {
       name: "Abhinav Anand",
       class: "8th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -1689,7 +1689,7 @@ let studentData = {
     {
       name: "Naksh Kumar",
       class: "8th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "Math", date: "19/04/2026", marksObtained: "Absent" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -1717,7 +1717,7 @@ let studentData = {
     {
       name: "Shivam Gond",
       class: "8th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "Math", date: "19/04/2026", marksObtained: "09/20" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -1745,7 +1745,7 @@ let studentData = {
     {
       name: "Ayush Kumar",
       class: "8th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -1773,7 +1773,7 @@ let studentData = {
     {
       name: "Rajnandani",
       class: "8th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "Math", date: "19/04/2026", marksObtained: "Absent" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -1801,7 +1801,7 @@ let studentData = {
     {
       name: "Rustam Kumar",
       class: "8th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -1829,7 +1829,7 @@ let studentData = {
     {
       name: "Ankit Kumar",
       class: "8th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "Math", date: "19/04/2026", marksObtained: "10/20" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -1857,7 +1857,7 @@ let studentData = {
     {
       name: "Ishu Raj",
       class: "8th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "Math", date: "19/04/2026", marksObtained: "Absent" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -1887,7 +1887,7 @@ let studentData = {
     {
       name: "Siddhant",
       class: "7th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -1915,7 +1915,7 @@ let studentData = {
     {
       name: "Aditya Raj",
       class: "7th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -1943,7 +1943,7 @@ let studentData = {
     {
       name: "Ananya Kumari (1)",
       class: "7th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -1971,7 +1971,7 @@ let studentData = {
     {
       name: "Janvi Kumari",
       class: "7th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -1999,7 +1999,7 @@ let studentData = {
     {
       name: "Ansh Kumar",
       class: "7th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2027,7 +2027,7 @@ let studentData = {
     {
       name: "Ritik Kumar",
       class: "7th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2055,7 +2055,7 @@ let studentData = {
     {
       name: "Himanshu Raj",
       class: "7th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2083,7 +2083,7 @@ let studentData = {
     {
       name: "Ashutosh Raj",
       class: "7th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2111,7 +2111,7 @@ let studentData = {
     {
       name: "Satyam Singh",
       class: "7th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2139,7 +2139,7 @@ let studentData = {
     {
       name: "Harsh Kumar",
       class: "7th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2167,7 +2167,7 @@ let studentData = {
     {
       name: "Nirbhay Kumar",
       class: "7th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2195,7 +2195,7 @@ let studentData = {
     {
       name: "Shourya singh",
       class: "7th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2223,7 +2223,7 @@ let studentData = {
     {
       name: "Pritam Raj",
       class: "7th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2251,7 +2251,7 @@ let studentData = {
     {
       name: "Sandhya Bhardwaj",
       class: "7th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2279,7 +2279,7 @@ let studentData = {
     {
       name: "Rishu Raj",
       class: "7th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2309,7 +2309,7 @@ let studentData = {
     {
       name: "Prince Kumar",
       class: "6th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2337,7 +2337,7 @@ let studentData = {
     {
       name: "Tejas Kumar",
       class: "6th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2365,7 +2365,7 @@ let studentData = {
     {
       name: "Akshita Rani",
       class: "6th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2393,7 +2393,7 @@ let studentData = {
     {
       name: "Riya Kumari",
       class: "6th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2421,7 +2421,7 @@ let studentData = {
     {
       name: "Ruhi Kumari",
       class: "6th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2449,7 +2449,7 @@ let studentData = {
     {
       name: "Rudra Abhishek",
       class: "6th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2477,7 +2477,7 @@ let studentData = {
     {
       name: "Riya Kumari",
       class: "6th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2505,7 +2505,7 @@ let studentData = {
     {
       name: "Atisha Shree",
       class: "6th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2533,7 +2533,7 @@ let studentData = {
     {
       name: "Samar Raj",
       class: "6th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2561,7 +2561,7 @@ let studentData = {
     {
       name: "Vidya Singh",
       class: "6th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2589,7 +2589,7 @@ let studentData = {
     {
       name: "Sahil Raj",
       class: "6th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2617,7 +2617,7 @@ let studentData = {
     {
       name: "Anand Bhardwaj",
       class: "6th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2647,7 +2647,7 @@ let studentData = {
     {
       name: "",
       class: "5th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2675,7 +2675,7 @@ let studentData = {
     {
       name: "",
       class: "5th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2703,7 +2703,7 @@ let studentData = {
     {
       name: "",
       class: "5th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2731,7 +2731,7 @@ let studentData = {
     {
       name: "",
       class: "5th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2759,7 +2759,7 @@ let studentData = {
     {
       name: "",
       class: "5th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2787,7 +2787,7 @@ let studentData = {
     {
       name: "",
       class: "5th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2815,7 +2815,7 @@ let studentData = {
     {
       name: "",
       class: "5th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2843,7 +2843,7 @@ let studentData = {
     {
       name: "",
       class: "5th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2871,7 +2871,7 @@ let studentData = {
     {
       name: "",
       class: "5th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2899,7 +2899,7 @@ let studentData = {
     {
       name: "",
       class: "5th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2927,7 +2927,7 @@ let studentData = {
     {
       name: "",
       class: "5th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2955,7 +2955,7 @@ let studentData = {
     {
       name: "",
       class: "5th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -2983,7 +2983,7 @@ let studentData = {
     {
       name: "",
       class: "5th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -3011,7 +3011,7 @@ let studentData = {
     {
       name: "",
       class: "5th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
@@ -3039,7 +3039,7 @@ let studentData = {
     {
       name: "",
       class: "5th",
-      estResults: [
+      testResults: [
         { id: "CBSE-01", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-03", subject: "---", date: "---", marksObtained: "---" },
