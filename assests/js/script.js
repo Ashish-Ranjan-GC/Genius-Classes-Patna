@@ -91,7 +91,11 @@ initializeSwiper();
 // RESULT
 
 function getResult() {
-  const admissionNumber = document.querySelector("#admission-number").value;
+  let admissionNumber = document.querySelector("#admission-number").value;
+
+  // ✅ FIX: clean input
+  admissionNumber = admissionNumber.trim();
+
   showResult(admissionNumber);
 }
 
@@ -100,7 +104,7 @@ function showResult(admissionNumber) {
   const studentResultContainer = document.querySelector(".student-result");
   studentResultContainer.innerHTML = "";
 
-  if (studentData[admissionNumber]) {
+  if (studentData[admissionNumber] && Array.isArray(studentData[admissionNumber])) {
     resultContainer.style.display = "block";
     studentResultContainer.style.display = "block";
 
