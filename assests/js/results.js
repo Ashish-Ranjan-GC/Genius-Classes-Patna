@@ -766,7 +766,7 @@ let studentData = {
         { id: "CBSE-01", subject: "Math", date: "19/04/2026", marksObtained: "Absent" },
         { id: "CBSE-02", subject: "Social Science", date: "03/05/2026", marksObtained: "Absent" },
         { id: "CBSE-03", subject: "Science", date: "16/05/2026", marksObtained: "---" },
-        { id: "CBSE-04", subject: "Math", date: "31/05/2026", marksObtained: "---" },
+        { id: "CBSE-04", subject: "Math", date: "31/05/2026", marksObtained: "18/20" },
         { id: "CBSE-05", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-06", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-07", subject: "---", date: "---", marksObtained: "---" },
