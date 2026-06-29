@@ -766,7 +766,7 @@ let studentData = {
         { id: "CBSE-01", subject: "Math", date: "19/04/2026", marksObtained: "Absent" },
         { id: "CBSE-02", subject: "Social Science", date: "03/05/2026", marksObtained: "Absent" },
         { id: "CBSE-03", subject: "Science", date: "16/05/2026", marksObtained: "Absent" },
-        { id: "CBSE-04", subject: "Math", date: "31/05/2026", marksObtained: "18/20" },
+        { id: "CBSE-04", subject: "Math", date: "31/05/2026", marksObtained: "Absent" },
         { id: "CBSE-05", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-06", subject: "---", date: "---", marksObtained: "---" },
         { id: "CBSE-07", subject: "---", date: "---", marksObtained: "---" },
@@ -3127,7 +3127,7 @@ let studentData = {
       name: "Adarsh Kumar",
       class: "10th",
       testResults: [
-        { id: "BSEB-01", subject: "---", date: "---", marksObtained: "---" },
+        { id: "BSEB-01", subject: "Math", date: "31/05/2026", marksObtained: "40/40" },
         { id: "BSEB-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "BSEB-03", subject: "---", date: "---", marksObtained: "---" },
         { id: "BSEB-04", subject: "---", date: "---", marksObtained: "---" },
@@ -3155,7 +3155,7 @@ let studentData = {
       name: "Kaushal Kumar",
       class: "10th",
       testResults: [
-        { id: "BSEB-01", subject: "---", date: "---", marksObtained: "---" },
+        { id: "BSEB-01", subject: "Math", date: "31/05/2026", marksObtained: "09/40" },
         { id: "BSEB-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "BSEB-03", subject: "---", date: "---", marksObtained: "---" },
         { id: "BSEB-04", subject: "---", date: "---", marksObtained: "---" },
@@ -3180,10 +3180,10 @@ let studentData = {
   ],
   "120/24": [
     {
-      name: "Abhinav Kumar",
+      name: "Nishant Kumar",
       class: "10th",
       testResults: [
-        { id: "BSEB-01", subject: "---", date: "---", marksObtained: "---" },
+        { id: "BSEB-01", subject: "Math", date: "31/05/2026", marksObtained: "22/40" },
         { id: "BSEB-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "BSEB-03", subject: "---", date: "---", marksObtained: "---" },
         { id: "BSEB-04", subject: "---", date: "---", marksObtained: "---" },
@@ -3208,10 +3208,10 @@ let studentData = {
   ],
   "01/25": [
     {
-      name: "Santosh Kumar",
+      name: "Pranjali Priya",
       class: "10th",
       testResults: [
-        { id: "BSEB-01", subject: "---", date: "---", marksObtained: "---" },
+        { id: "BSEB-01", subject: "Math", date: "31/05/2026", marksObtained: "02/40" },
         { id: "BSEB-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "BSEB-03", subject: "---", date: "---", marksObtained: "---" },
         { id: "BSEB-04", subject: "---", date: "---", marksObtained: "---" },
@@ -3236,10 +3236,10 @@ let studentData = {
   ],
   "93/24": [
     {
-      name: "Nishu Kumari",
+      name: "Aditya Kumar",
       class: "10th",
       testResults: [
-        { id: "BSEB-01", subject: "---", date: "---", marksObtained: "---" },
+        { id: "BSEB-01", subject: "Math", date: "31/05/2026", marksObtained: "13/40" },
         { id: "BSEB-02", subject: "---", date: "---", marksObtained: "---" },
         { id: "BSEB-03", subject: "---", date: "---", marksObtained: "---" },
         { id: "BSEB-04", subject: "---", date: "---", marksObtained: "---" },
