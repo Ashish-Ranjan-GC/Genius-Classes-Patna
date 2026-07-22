@@ -420,7 +420,7 @@ let studentData = {
       ],
     },
   ],
-  "---": [
+  "20/26": [
     {
       name: "Saurav Chauhan",
       class: "10th",
@@ -1038,7 +1038,7 @@ let studentData = {
       ],
     },
   ],
-  "---": [
+  "35/26": [
     {
       name: "Aditya Chaudhary",
       class: "9th",
@@ -1178,7 +1178,7 @@ let studentData = {
       ],
     },
   ],
-  "---": [
+  "37/26": [
     {
       name: "Adarsh Raj",
       class: "9th",
