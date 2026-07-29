@@ -56,7 +56,7 @@ let studentData = {
       ],
     },
   ],
-  "--/26": [
+  "26/26": [
     {
       name: "Shital Kumari",
       class: "10th",
@@ -84,9 +84,9 @@ let studentData = {
       ],
     },
   ],
-  106: [
+  "42/26": [
     {
-      name: "Nisha Kumari",
+      name: "Utkarsh Sagar",
       class: "10th",
       testResults: [
         { id: "CBSE-01", subject: "Math", date: "19/04/2026", marksObtained: "---" },
@@ -112,9 +112,9 @@ let studentData = {
       ],
     },
   ],
-  189: [
+  "71": [
     {
-      name: "Vedant Kumar",
+      name: "Aniket Kumar",
       class: "10th",
       testResults: [
         { id: "CBSE-01", subject: "Math", date: "19/04/2026", marksObtained: "---" },
@@ -252,7 +252,7 @@ let studentData = {
       ],
     },
   ],
-  "---": [
+  "151/23": [
     {
       name: "Sibbu Kumar",
       class: "10th",
@@ -420,7 +420,7 @@ let studentData = {
       ],
     },
   ],
-  "34/26": [
+  "33/26": [
     {
       name: "Saurav Chauhan",
       class: "10th",
@@ -1939,7 +1939,7 @@ let studentData = {
       ],
     },
   ],
-  "024/26": [
+  "24/26": [
     {
       name: "Aryan Pratap",
       class: "7th",
