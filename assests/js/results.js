@@ -2023,9 +2023,9 @@ let studentData = {
       ],
     },
   ],
-  "117/23": [
+  "150/23": [
     {
-      name: "Ansh Kumar",
+      name: "Shyam Kumar",
       class: "7th",
       testResults: [
         { id: "CBSE-01", subject: "Math", date: "19/04/2026", marksObtained: "---" },
@@ -2247,9 +2247,9 @@ let studentData = {
       ],
     },
   ],
-  "57/25": [
+  "32/26": [
     {
-      name: "Pritam Raj",
+      name: "Shivani Kumari",
       class: "7th",
       testResults: [
         { id: "CBSE-01", subject: "Math", date: "19/04/2026", marksObtained: "---" },
