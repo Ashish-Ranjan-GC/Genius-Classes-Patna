@@ -3355,7 +3355,7 @@ let studentData = {
       testResults: [
         { id: "INTER-1-01", subject: "Physics", date: "16/06/2026", marksObtained: "13/40" },
         { id: "INTER-1-02", subject: "Chemistry", date: "28/06/2026", marksObtained: "27/40" },
-        { id: "INTER-1-03", subject: "Math", date: "16/07/2026", marksObtained: "---" },
+        { id: "INTER-1-03", subject: "Math", date: "16/07/2026", marksObtained: "27/30" },
         { id: "INTER-1-04", subject: "---", date: "---", marksObtained: "---" },
         { id: "INTER-1-05", subject: "---", date: "---", marksObtained: "---" },
         { id: "INTER-1-06", subject: "---", date: "---", marksObtained: "---" },
@@ -3411,7 +3411,7 @@ let studentData = {
       testResults: [
         { id: "INTER-1-01", subject: "Physics", date: "16/06/2026", marksObtained: "19/40" },
         { id: "INTER-1-02", subject: "Chemistry", date: "28/06/2026", marksObtained: "15/40" },
-        { id: "INTER-1-03", subject: "Math", date: "16/07/2026", marksObtained: "---" },
+        { id: "INTER-1-03", subject: "Math", date: "16/07/2026", marksObtained: "22/30" },
         { id: "INTER-1-04", subject: "---", date: "---", marksObtained: "---" },
         { id: "INTER-1-05", subject: "---", date: "---", marksObtained: "---" },
         { id: "INTER-1-06", subject: "---", date: "---", marksObtained: "---" },
@@ -3439,7 +3439,7 @@ let studentData = {
       testResults: [
         { id: "INTER-1-01", subject: "Physics", date: "16/06/2026", marksObtained: "23/40" },
         { id: "INTER-1-02", subject: "Chemistry", date: "28/06/2026", marksObtained: "31/40" },
-        { id: "INTER-1-03", subject: "Math", date: "16/07/2026", marksObtained: "---" },
+        { id: "INTER-1-03", subject: "Math", date: "16/07/2026", marksObtained: "29/30" },
         { id: "INTER-1-04", subject: "---", date: "---", marksObtained: "---" },
         { id: "INTER-1-05", subject: "---", date: "---", marksObtained: "---" },
         { id: "INTER-1-06", subject: "---", date: "---", marksObtained: "---" },
@@ -3467,7 +3467,7 @@ let studentData = {
       testResults: [
         { id: "INTER-1-01", subject: "Physics", date: "16/06/2026", marksObtained: "20/40" },
         { id: "INTER-1-02", subject: "Chemistry", date: "28/06/2026", marksObtained: "02/40" },
-        { id: "INTER-1-03", subject: "Math", date: "16/07/2026", marksObtained: "---" },
+        { id: "INTER-1-03", subject: "Math", date: "16/07/2026", marksObtained: "Absent" },
         { id: "INTER-1-04", subject: "---", date: "---", marksObtained: "---" },
         { id: "INTER-1-05", subject: "---", date: "---", marksObtained: "---" },
         { id: "INTER-1-06", subject: "---", date: "---", marksObtained: "---" },
@@ -3579,7 +3579,7 @@ let studentData = {
       testResults: [
         { id: "INTER-1-01", subject: "Physics", date: "16/06/2026", marksObtained: "17/40" },
         { id: "INTER-1-02", subject: "Chemistry", date: "28/06/2026", marksObtained: "06/40" },
-        { id: "INTER-1-03", subject: "Math", date: "16/07/2026", marksObtained: "---" },
+        { id: "INTER-1-03", subject: "Math", date: "16/07/2026", marksObtained: "23/30" },
         { id: "INTER-1-04", subject: "---", date: "---", marksObtained: "---" },
         { id: "INTER-1-05", subject: "---", date: "---", marksObtained: "---" },
         { id: "INTER-1-06", subject: "---", date: "---", marksObtained: "---" },
