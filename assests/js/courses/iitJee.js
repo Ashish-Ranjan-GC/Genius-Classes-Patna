@@ -1,7 +1,7 @@
 let iitJeeDetails = [
-  { image: "", courseName: "Class 11th", currentPrice: "25000", realPrice: "32000" },
-  { image: "", courseName: "Class 12th", currentPrice: "30000", realPrice: "38000" },
-  { image: "", courseName: "Dropper", currentPrice: "30000", realPrice: "38000" }
+  { image: "", courseName: "Class 11th & 12th", currentPrice: "58,500", realPrice: "65,000" },
+  { image: "", courseName: "Class 12th", currentPrice: "31,500", realPrice: "35,000" },
+  { image: "", courseName: "Dropper", currentPrice: "31,500", realPrice: "35,000" }
 ];
 
 let iitJee = document.querySelector(".courses-container-list");
@@ -18,9 +18,9 @@ iitJeeDetails.forEach(function (course) {
       <div class="price-container">
         <span class="special">Special Discounted Price</span>
         <div class="price">
-          <span class="current-price">₹ ${course.currentPrice}/year</span>
-          <span class="real-price">₹ ${course.realPrice}/year</span>
-          <span class="discount">${Math.floor(discountPercentage)}% OFF</span>
+          <span class="current-price">₹ ${course.currentPrice}</span>
+          <span class="real-price">₹ ${course.realPrice}</span>
+          <span class="discount">10% OFF</span>
         </div>
       </div>
       <a href="">Get started</a>
