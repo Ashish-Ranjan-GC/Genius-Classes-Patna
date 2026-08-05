@@ -1,6 +1,6 @@
 let scienceDetails = [
-  { image: "", courseName: "Class 11th", currentPrice: "25000", realPrice: "32000" },
-  { image: "", courseName: "Class 12th", currentPrice: "30000", realPrice: "38000" }
+  { image: "", courseName: "Class 11th & 12th", currentPrice: "58,500", realPrice: "65,000" },
+  { image: "", courseName: "Class 12th", currentPrice: "31,500", realPrice: "35,000" }
 ];
 
 let science = document.querySelector(".courses-container-list");
@@ -18,7 +18,7 @@ scienceDetails.forEach(function (course) {
         <span class="special">Special Discounted Price</span>
         <div class="price">
           <span class="current-price">₹ ${course.currentPrice}/year</span>
-          <span class="real-price">₹ ${course.realPrice}/year</span>
+          <span class="real-price">₹${course.realPrice}</span>
           <span class="discount">${Math.floor(discountPercentage)}% OFF</span>
         </div>
       </div>
