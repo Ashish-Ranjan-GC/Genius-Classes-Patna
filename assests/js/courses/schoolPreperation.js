@@ -23,7 +23,7 @@ schoolPreperationDetails.forEach(function (course) {
         <div class="price">
           <span class="current-price">₹ ${course.currentPrice}</span>
           <span class="real-price">₹ ${course.realPrice}</span>
-          <span class="discount">${Math.floor(discountPercentage)}% OFF</span>
+          <span class="discount">10% OFF</span>
         </div>
       </div>
       <a href="">Get started</a>
