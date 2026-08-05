@@ -1,10 +1,10 @@
 let schoolPreperationDetails = [
-  { image: "", courseName: "Class 1st - 5th", currentPrice: "900", realPrice: "1200" },
-  { image: "", courseName: "Class 6th", currentPrice: "1100", realPrice: "1300" },
-  { image: "", courseName: "Class 7th", currentPrice: "1200", realPrice: "1500" },
-  { image: "", courseName: "Class 8th", currentPrice: "1300", realPrice: "1600" },
-  { image: "", courseName: "Class 9th", currentPrice: "1400", realPrice: "1800" },
-  { image: "", courseName: "Class 10th", currentPrice: "1600", realPrice: "2000" }
+  { image: "", courseName: "Class 1st - 5th", currentPrice: "9,900", realPrice: "11,000" },
+  { image: "", courseName: "Class 6th", currentPrice: "11,700", realPrice: "13,000" },
+  { image: "", courseName: "Class 7th", currentPrice: "12,600", realPrice: "14,000" },
+  { image: "", courseName: "Class 8th", currentPrice: "13,500", realPrice: "15,000" },
+  { image: "", courseName: "Class 9th", currentPrice: "14,400", realPrice: "16,000" },
+  { image: "", courseName: "Class 10th", currentPrice: "16,200", realPrice: "18,000" }
 ];
 
 let schoolPreperation = document.querySelector(".courses-container-list");
@@ -21,8 +21,8 @@ schoolPreperationDetails.forEach(function (course) {
       <div class="price-container">
         <span class="special">Special Discounted Price</span>
         <div class="price">
-          <span class="current-price">₹ ${course.currentPrice}/month</span>
-          <span class="real-price">₹ ${course.realPrice}/month</span>
+          <span class="current-price">₹ ${course.currentPrice}</span>
+          <span class="real-price">₹ ${course.realPrice}</span>
           <span class="discount">${Math.floor(discountPercentage)}% OFF</span>
         </div>
       </div>
